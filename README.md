@@ -1,3 +1,3 @@
 # omnifood project
 
-Pure HTM/CSS project. Desktop first.
+Pure HTML/CSS project. Desktop first.
