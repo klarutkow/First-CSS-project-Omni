@@ -1,3 +1,3 @@
-# My first  CSS project
+# omnifood project
 
-Desktop first.
+Pure HTM/CSS project. Desktop first.
